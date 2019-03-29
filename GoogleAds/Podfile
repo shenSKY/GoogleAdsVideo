@@ -1,0 +1,5 @@
+platform :ios, '10.0'
+target :'GoogleAds' do
+pod 'GoogleAds-IMA-iOS-SDK'
+use_frameworks!
+end
